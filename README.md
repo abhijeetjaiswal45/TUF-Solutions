@@ -6,13 +6,18 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **0** | 0 | 0 | 0 | `2026-09-29` |
+| **1** | 0 | 1 | 0 | `2026-09-29` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-No problems synced yet.
+### DSA (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [494. Bitwise OR of Adjacent Elements
+POTD](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements) | [JAVA](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-09-29` |
 
 ---
 
