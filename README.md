@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **8** | 0 | 8 | 0 | `2026-10-03` |
+| **9** | 0 | 9 | 0 | `2026-10-03` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (8)
+### DSA (9)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -24,8 +24,9 @@ POTD](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements) | [JAVA](./DSA/Bit
 POTD](./DSA/General/meeting-rooms) | [JAVA](./DSA/General/meeting-rooms/solution.java) | ⚪ Unspecified | `General` | `2026-10-02` |
 | 0005 | [166. Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
 | 0006 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
-| 0007 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
-| 0008 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0007 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0008 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
+| 0009 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
 
 ---
 
