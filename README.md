@@ -6,28 +6,29 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **10** | 0 | 10 | 0 | `2026-10-04` |
+| **11** | 0 | 11 | 0 | `2026-10-04` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (10)
+### DSA (11)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [494. Bitwise OR of Adjacent Elements
 POTD](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements) | [JAVA](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-09-29` |
 | 0002 | [901. Deletion of the head of LL](./DSA/Linked-List/deletion-of-the-head-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-head-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
-| 0003 | [998. Find the length of the Linked List](./DSA/Linked-List/find-the-length-of-the-linked-list) | [JAVA](./DSA/Linked-List/find-the-length-of-the-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
-| 0004 | [392. Maximum Nesting Depth of the Parentheses](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses/solution.java) | ⚪ Unspecified | `Recursion` | `2026-09-30` |
-| 0005 | [72. Meeting Rooms
+| 0003 | [914. Deletion of the tail of Linked List](./DSA/Linked-List/deletion-of-the-tail-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-tail-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
+| 0004 | [998. Find the length of the Linked List](./DSA/Linked-List/find-the-length-of-the-linked-list) | [JAVA](./DSA/Linked-List/find-the-length-of-the-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0005 | [392. Maximum Nesting Depth of the Parentheses](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses/solution.java) | ⚪ Unspecified | `Recursion` | `2026-09-30` |
+| 0006 | [72. Meeting Rooms
 POTD](./DSA/General/meeting-rooms) | [JAVA](./DSA/General/meeting-rooms/solution.java) | ⚪ Unspecified | `General` | `2026-10-02` |
-| 0006 | [166. Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0007 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
-| 0008 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
-| 0009 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
-| 0010 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0007 | [166. Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0008 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
+| 0009 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0010 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
+| 0011 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
 
 ---
 
