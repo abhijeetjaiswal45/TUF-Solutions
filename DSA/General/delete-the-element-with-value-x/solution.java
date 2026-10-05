@@ -16,7 +16,7 @@ class Solution {
        }
       
        if(head.data==X) {
-        return head.next;
+       return head.next;
        }
         ListNode temp= head;
         while(temp.next!=null) {
