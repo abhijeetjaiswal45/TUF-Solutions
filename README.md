@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **20** | 0 | 20 | 0 | `2026-10-06` |
+| **21** | 0 | 21 | 0 | `2026-10-06` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (20)
+### DSA (21)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -34,10 +34,11 @@ POTD](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements) | [JAVA](./DSA/Bit
 | 0015 | [72. Meeting Rooms
 POTD](./DSA/General/meeting-rooms) | [JAVA](./DSA/General/meeting-rooms/solution.java) | ⚪ Unspecified | `General` | `2026-10-02` |
 | 0016 | [166. Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0017 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
-| 0018 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
-| 0019 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
-| 0020 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0017 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [JAVA](./DSA/General/removing-given-node-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0018 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
+| 0019 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0020 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
+| 0021 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
 
 ---
 
