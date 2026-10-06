@@ -31,10 +31,8 @@ class Solution {
             }
             temp=temp.next;
         }
-        if(temp.prev!=null) {
         temp.prev.next=node;
         node.prev=temp.prev;
-        }
         temp.prev=node;
         node.next=temp;
         return head;
