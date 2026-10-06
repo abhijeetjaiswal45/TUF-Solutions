@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **24** | 0 | 24 | 0 | `2026-10-06` |
+| **25** | 0 | 25 | 0 | `2026-10-06` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (24)
+### DSA (25)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -26,22 +26,23 @@ POTD](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements) | [JAVA](./DSA/Bit
 | 0007 | [905. Deletion of the Kth element of Linked List](./DSA/Linked-List/deletion-of-the-kth-element-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-kth-element-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
 | 0008 | [914. Deletion of the tail of Linked List](./DSA/Linked-List/deletion-of-the-tail-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-tail-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
 | 0009 | [998. Find the length of the Linked List](./DSA/Linked-List/find-the-length-of-the-linked-list) | [JAVA](./DSA/Linked-List/find-the-length-of-the-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
-| 0010 | [980. Insert node before head in Doubly Linked List](./DSA/General/insert-node-before-head-in-dll) | [JAVA](./DSA/General/insert-node-before-head-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0011 | [971. Insert node before (kth node) in Doubly Linked List](./DSA/General/insert-node-before-kth-node-in-dll) | [JAVA](./DSA/General/insert-node-before-kth-node-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0012 | [985. Insert node before tail in Doubly Linked List](./DSA/General/insert-node-before-tail-in-dll) | [JAVA](./DSA/General/insert-node-before-tail-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0013 | [941. Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-head-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
-| 0014 | [954. Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-kth-position-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
-| 0015 | [958. Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-tail-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
-| 0016 | [967. Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-ll) | [JAVA](./DSA/Linked-List/insertion-before-the-value-x-in-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
-| 0017 | [392. Maximum Nesting Depth of the Parentheses](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses/solution.java) | ⚪ Unspecified | `Recursion` | `2026-09-30` |
-| 0018 | [72. Meeting Rooms
+| 0010 | [927. Insert before given node in Doubly Linked List](./DSA/General/insert-before-given-node-in-dll) | [JAVA](./DSA/General/insert-before-given-node-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0011 | [980. Insert node before head in Doubly Linked List](./DSA/General/insert-node-before-head-in-dll) | [JAVA](./DSA/General/insert-node-before-head-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0012 | [971. Insert node before (kth node) in Doubly Linked List](./DSA/General/insert-node-before-kth-node-in-dll) | [JAVA](./DSA/General/insert-node-before-kth-node-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0013 | [985. Insert node before tail in Doubly Linked List](./DSA/General/insert-node-before-tail-in-dll) | [JAVA](./DSA/General/insert-node-before-tail-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0014 | [941. Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-head-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
+| 0015 | [954. Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-kth-position-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
+| 0016 | [958. Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-tail-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
+| 0017 | [967. Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-ll) | [JAVA](./DSA/Linked-List/insertion-before-the-value-x-in-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
+| 0018 | [392. Maximum Nesting Depth of the Parentheses](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses/solution.java) | ⚪ Unspecified | `Recursion` | `2026-09-30` |
+| 0019 | [72. Meeting Rooms
 POTD](./DSA/General/meeting-rooms) | [JAVA](./DSA/General/meeting-rooms/solution.java) | ⚪ Unspecified | `General` | `2026-10-02` |
-| 0019 | [166. Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0020 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [JAVA](./DSA/General/removing-given-node-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0021 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
-| 0022 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
-| 0023 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
-| 0024 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0020 | [166. Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0021 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [JAVA](./DSA/General/removing-given-node-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0022 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
+| 0023 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0024 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
+| 0025 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
 
 ---
 
