@@ -15,8 +15,8 @@ class Solution {
         ListNode newNode=new ListNode(X);
         if(node.prev!=null) {
             node.prev.next=newNode;
-            newNode.prev=node.prev;
         }
+         newNode.prev=node.prev;
          newNode.next=node;
          node.prev=newNode;
     }
