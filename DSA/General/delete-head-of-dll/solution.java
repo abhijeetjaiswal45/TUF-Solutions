@@ -16,9 +16,7 @@ class Solution {
             return null;
         }
         head=head.next;
-        if(head.prev!=null) {
         head.prev.next=null;
-        }
         head.prev=null;
         return head;
     }
