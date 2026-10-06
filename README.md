@@ -6,37 +6,38 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **19** | 0 | 19 | 0 | `2026-10-06` |
+| **20** | 0 | 20 | 0 | `2026-10-06` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (19)
+### DSA (20)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [494. Bitwise OR of Adjacent Elements
 POTD](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements) | [JAVA](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-09-29` |
 | 0002 | [875. Convert Array to Doubly Linked List](./DSA/Arrays/convert-array-to-dll) | [JAVA](./DSA/Arrays/convert-array-to-dll/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0003 | [892. Delete Tail of Doubly Linked List](./DSA/General/delete-tail-of-dll) | [JAVA](./DSA/General/delete-tail-of-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0004 | [891. Delete the element with value X](./DSA/General/delete-the-element-with-value-x) | [JAVA](./DSA/General/delete-the-element-with-value-x/solution.java) | ⚪ Unspecified | `General` | `2026-10-05` |
-| 0005 | [901. Deletion of the head of LL](./DSA/Linked-List/deletion-of-the-head-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-head-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
-| 0006 | [905. Deletion of the Kth element of Linked List](./DSA/Linked-List/deletion-of-the-kth-element-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-kth-element-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
-| 0007 | [914. Deletion of the tail of Linked List](./DSA/Linked-List/deletion-of-the-tail-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-tail-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
-| 0008 | [998. Find the length of the Linked List](./DSA/Linked-List/find-the-length-of-the-linked-list) | [JAVA](./DSA/Linked-List/find-the-length-of-the-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
-| 0009 | [941. Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-head-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
-| 0010 | [954. Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-kth-position-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
-| 0011 | [958. Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-tail-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
-| 0012 | [967. Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-ll) | [JAVA](./DSA/Linked-List/insertion-before-the-value-x-in-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
-| 0013 | [392. Maximum Nesting Depth of the Parentheses](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses/solution.java) | ⚪ Unspecified | `Recursion` | `2026-09-30` |
-| 0014 | [72. Meeting Rooms
+| 0003 | [888. Delete Kth Element of Doubly Linked List](./DSA/General/delete-kth-element-of-dll) | [JAVA](./DSA/General/delete-kth-element-of-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0004 | [892. Delete Tail of Doubly Linked List](./DSA/General/delete-tail-of-dll) | [JAVA](./DSA/General/delete-tail-of-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0005 | [891. Delete the element with value X](./DSA/General/delete-the-element-with-value-x) | [JAVA](./DSA/General/delete-the-element-with-value-x/solution.java) | ⚪ Unspecified | `General` | `2026-10-05` |
+| 0006 | [901. Deletion of the head of LL](./DSA/Linked-List/deletion-of-the-head-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-head-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
+| 0007 | [905. Deletion of the Kth element of Linked List](./DSA/Linked-List/deletion-of-the-kth-element-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-kth-element-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
+| 0008 | [914. Deletion of the tail of Linked List](./DSA/Linked-List/deletion-of-the-tail-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-tail-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
+| 0009 | [998. Find the length of the Linked List](./DSA/Linked-List/find-the-length-of-the-linked-list) | [JAVA](./DSA/Linked-List/find-the-length-of-the-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0010 | [941. Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-head-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
+| 0011 | [954. Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-kth-position-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
+| 0012 | [958. Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-tail-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
+| 0013 | [967. Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-ll) | [JAVA](./DSA/Linked-List/insertion-before-the-value-x-in-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
+| 0014 | [392. Maximum Nesting Depth of the Parentheses](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses/solution.java) | ⚪ Unspecified | `Recursion` | `2026-09-30` |
+| 0015 | [72. Meeting Rooms
 POTD](./DSA/General/meeting-rooms) | [JAVA](./DSA/General/meeting-rooms/solution.java) | ⚪ Unspecified | `General` | `2026-10-02` |
-| 0015 | [166. Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0016 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
-| 0017 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
-| 0018 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
-| 0019 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0016 | [166. Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0017 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
+| 0018 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0019 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
+| 0020 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
 
 ---
 
