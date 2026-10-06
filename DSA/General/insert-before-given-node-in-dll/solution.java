@@ -13,9 +13,7 @@ class ListNode {
 class Solution {
     public void insertBeforeGivenNode(ListNode node, int X) {
         ListNode newNode=new ListNode(X);
-        if(node.prev!=null) {
             node.prev.next=newNode;
-        }
          newNode.prev=node.prev;
          newNode.next=node;
          node.prev=newNode;
