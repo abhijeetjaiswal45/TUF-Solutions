@@ -1,0 +1,60 @@
+
+/*Definition for Singly Linked List
+class ListNode {
+    int val;
+    ListNode next;
+
+    ListNode() {
+        val = 0;
+        next = null;
+    }
+
+    ListNode(int data1) {
+        val = data1;
+        next = null;
+    }
+
+    ListNode(int data1, ListNode next1) {
+        val = data1;
+        next = next1;
+    }
+}
+ */
+
+class Solution {
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+        ListNode temp=head;
+        int size=0;
+        while(temp!=null) {
+            size++;
+            temp=temp.next;
+        }
+        if(n==size) {
+            head=head.next;
+            return head;
+        }
+    ListNode node=head;
+    ListNode nodeHead=node;
+    if(n==0) {
+        while(node.next.next!=null) {
+            node=node.next;
+        }
+        node.next=null;
+        return head;
+    }
+    int count=1;
+    while(node!=null && node.next!=null) {
+        ListNode extra=null;
+        if(count==size-n) {
+            extra=node.next;
+            node.next=node.next.next;
+            extra.next=null;
+            head=nodeHead;
+            break;
+        }
+        node=node.next;
+        count++;
+    }
+    return head;
+    }
+}
