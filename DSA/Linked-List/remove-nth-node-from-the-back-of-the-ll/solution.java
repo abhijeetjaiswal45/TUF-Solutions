@@ -34,7 +34,6 @@ class Solution {
             return head;
         }
     ListNode node=head;
-    ListNode nodeHead=node;
     if(n==0) {
         while(node.next.next!=null) {
             node=node.next;
@@ -49,7 +48,6 @@ class Solution {
             extra=node.next;
             node.next=node.next.next;
             extra.next=null;
-            head=nodeHead;
             break;
         }
         node=node.next;
