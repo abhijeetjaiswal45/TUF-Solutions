@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **32** | 0 | 32 | 0 | `2026-10-09` |
+| **32** | 0 | 32 | 0 | `2026-10-10` |
 
 ---
 
@@ -27,7 +27,7 @@ POTD](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements) | [JAVA](./DSA/Bit
 | 0008 | [901. Deletion of the head of LL](./DSA/Linked-List/deletion-of-the-head-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-head-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
 | 0009 | [905. Deletion of the Kth element of Linked List](./DSA/Linked-List/deletion-of-the-kth-element-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-kth-element-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
 | 0010 | [914. Deletion of the tail of Linked List](./DSA/Linked-List/deletion-of-the-tail-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-tail-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
-| 0011 | [157. Find Middle of Linked List](./DSA/Linked-List/find-middle-of-linked-list) | [JAVA](./DSA/Linked-List/find-middle-of-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-09` |
+| 0011 | [157. Find Middle of Linked List](./DSA/Linked-List/find-middle-of-linked-list) | [JAVA](./DSA/Linked-List/find-middle-of-linked-list/solution.java) [Solution-2](./DSA/Linked-List/find-middle-of-linked-list/Solution-2.java) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
 | 0012 | [998. Find the length of the Linked List](./DSA/Linked-List/find-the-length-of-the-linked-list) | [JAVA](./DSA/Linked-List/find-the-length-of-the-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
 | 0013 | [927. Insert before given node in Doubly Linked List](./DSA/General/insert-before-given-node-in-dll) | [JAVA](./DSA/General/insert-before-given-node-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
 | 0014 | [980. Insert node before head in Doubly Linked List](./DSA/General/insert-node-before-head-in-dll) | [JAVA](./DSA/General/insert-node-before-head-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
