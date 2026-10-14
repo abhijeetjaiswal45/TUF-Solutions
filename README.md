@@ -21,7 +21,7 @@
 POTD](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements) | [JAVA](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-09-29` |
 | 0003 | [833. Calculate Frequency of Characters in a String
 POTD](./DSA/Strings/calculate-frequency-of-characters-in-a-string) | [Solution-2](./DSA/Strings/calculate-frequency-of-characters-in-a-string/Solution-2.java) | ⚪ Unspecified | `Strings` | `2026-10-11` |
-| 0004 | [717. Check if a Number is Odd or Not](./DSA/General/check-if-a-number-is-odd-or-not) | [JAVA](./DSA/General/check-if-a-number-is-odd-or-not/solution.java) | ⚪ Unspecified | `General` | `2026-10-14` |
+| 0004 | [717. Check if a Number is Odd or Not](./DSA/General/check-if-a-number-is-odd-or-not) | [JAVA](./DSA/General/check-if-a-number-is-odd-or-not/solution.java) [Solution-2](./DSA/General/check-if-a-number-is-odd-or-not/Solution-2.java) | ⚪ Unspecified | `General` | `2026-10-14` |
 | 0005 | [289. Check if a Number is Power of 2 or Not](./DSA/General/check-if-a-number-is-power-of-2-or-not) | [JAVA](./DSA/General/check-if-a-number-is-power-of-2-or-not/solution.java) | ⚪ Unspecified | `General` | `2026-10-14` |
 | 0006 | [198. Check if LL is palindrome or not](./DSA/Linked-List/check-if-ll-is-palindrome-or-not) | [Solution-2](./DSA/Linked-List/check-if-ll-is-palindrome-or-not/Solution-2.java) | ⚪ Unspecified | `Linked-List` | `2026-10-11` |
 | 0007 | [875. Convert Array to Doubly Linked List](./DSA/Arrays/convert-array-to-dll) | [JAVA](./DSA/Arrays/convert-array-to-dll/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
