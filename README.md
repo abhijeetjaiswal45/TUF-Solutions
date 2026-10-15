@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **43** | 0 | 43 | 0 | `2026-10-15` |
+| **44** | 0 | 44 | 0 | `2026-10-15` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (43)
+### DSA (44)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -21,7 +21,7 @@
 POTD](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements) | [JAVA](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-09-29` |
 | 0003 | [833. Calculate Frequency of Characters in a String
 POTD](./DSA/Strings/calculate-frequency-of-characters-in-a-string) | [Solution-2](./DSA/Strings/calculate-frequency-of-characters-in-a-string/Solution-2.java) | ⚪ Unspecified | `Strings` | `2026-10-11` |
-| 0004 | [717. Check if a Number is Odd or Not](./DSA/General/check-if-a-number-is-odd-or-not) | [JAVA](./DSA/General/check-if-a-number-is-odd-or-not/solution.java) [Solution-2](./DSA/General/check-if-a-number-is-odd-or-not/Solution-2.java) | ⚪ Unspecified | `General` | `2026-10-14` |
+| 0004 | [717. Check if a Number is Odd or Not](./DSA/General/check-if-a-number-is-odd-or-not) | [Solution-2](./DSA/General/check-if-a-number-is-odd-or-not/Solution-2.java) [JAVA](./DSA/General/check-if-a-number-is-odd-or-not/solution.java) | ⚪ Unspecified | `General` | `2026-10-14` |
 | 0005 | [289. Check if a Number is Power of 2 or Not](./DSA/General/check-if-a-number-is-power-of-2-or-not) | [JAVA](./DSA/General/check-if-a-number-is-power-of-2-or-not/solution.java) | ⚪ Unspecified | `General` | `2026-10-14` |
 | 0006 | [198. Check if LL is palindrome or not](./DSA/Linked-List/check-if-ll-is-palindrome-or-not) | [Solution-2](./DSA/Linked-List/check-if-ll-is-palindrome-or-not/Solution-2.java) | ⚪ Unspecified | `Linked-List` | `2026-10-11` |
 | 0007 | [875. Convert Array to Doubly Linked List](./DSA/Arrays/convert-array-to-dll) | [JAVA](./DSA/Arrays/convert-array-to-dll/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
@@ -51,17 +51,18 @@ POTD](./DSA/Strings/calculate-frequency-of-characters-in-a-string) | [Solution-2
 | 0031 | [392. Maximum Nesting Depth of the Parentheses](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses/solution.java) | ⚪ Unspecified | `Recursion` | `2026-09-30` |
 | 0032 | [72. Meeting Rooms
 POTD](./DSA/General/meeting-rooms) | [JAVA](./DSA/General/meeting-rooms/solution.java) | ⚪ Unspecified | `General` | `2026-10-02` |
-| 0033 | [166. Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0034 | [81. Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [JAVA](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
-| 0035 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [JAVA](./DSA/General/removing-given-node-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0036 | [601. Reverse a Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [Solution-2](./DSA/Linked-List/reverse-a-doubly-linked-list/Solution-2.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0037 | [3. Reverse a LL](./DSA/Linked-List/reverse-a-ll) | [JAVA](./DSA/Linked-List/reverse-a-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
-| 0038 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
-| 0039 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
-| 0040 | [110. Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-07` |
-| 0041 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
-| 0042 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [JAVA](./DSA/General/swap-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-13` |
-| 0043 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0033 | [377. Minimum Bit Flips to Convert Number](./DSA/Bit-Manipulation/minimum-bit-flips-to-convert-number) | [Solution-2](./DSA/Bit-Manipulation/minimum-bit-flips-to-convert-number/Solution-2.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-15` |
+| 0034 | [166. Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0035 | [81. Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [JAVA](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
+| 0036 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [JAVA](./DSA/General/removing-given-node-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0037 | [601. Reverse a Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [Solution-2](./DSA/Linked-List/reverse-a-doubly-linked-list/Solution-2.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0038 | [3. Reverse a LL](./DSA/Linked-List/reverse-a-ll) | [JAVA](./DSA/Linked-List/reverse-a-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
+| 0039 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
+| 0040 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0041 | [110. Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-07` |
+| 0042 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
+| 0043 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [JAVA](./DSA/General/swap-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-13` |
+| 0044 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
 
 ---
 
