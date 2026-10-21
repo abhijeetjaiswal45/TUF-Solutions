@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **47** | 0 | 47 | 0 | `2026-10-20` |
+| **47** | 0 | 47 | 0 | `2026-10-21` |
 
 ---
 
@@ -24,7 +24,7 @@ POTD](./DSA/Strings/calculate-frequency-of-characters-in-a-string) | [Solution-2
 | 0004 | [717. Check if a Number is Odd or Not](./DSA/General/check-if-a-number-is-odd-or-not) | [Solution-2](./DSA/General/check-if-a-number-is-odd-or-not/Solution-2.java) [JAVA](./DSA/General/check-if-a-number-is-odd-or-not/solution.java) | ⚪ Unspecified | `General` | `2026-10-14` |
 | 0005 | [289. Check if a Number is Power of 2 or Not](./DSA/General/check-if-a-number-is-power-of-2-or-not) | [JAVA](./DSA/General/check-if-a-number-is-power-of-2-or-not/solution.java) | ⚪ Unspecified | `General` | `2026-10-14` |
 | 0006 | [198. Check if LL is palindrome or not](./DSA/Linked-List/check-if-ll-is-palindrome-or-not) | [Solution-2](./DSA/Linked-List/check-if-ll-is-palindrome-or-not/Solution-2.java) | ⚪ Unspecified | `Linked-List` | `2026-10-11` |
-| 0007 | [730. Check if the i-th bit is Set or Not](./DSA/Bit-Manipulation/check-if-the-i-th-bit-is-set-or-not) | [JAVA](./DSA/Bit-Manipulation/check-if-the-i-th-bit-is-set-or-not/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-16` |
+| 0007 | [730. Check if the i-th bit is Set or Not](./DSA/Bit-Manipulation/check-if-the-i-th-bit-is-set-or-not) | [JAVA](./DSA/Bit-Manipulation/check-if-the-i-th-bit-is-set-or-not/solution.java) [Solution-2](./DSA/Bit-Manipulation/check-if-the-i-th-bit-is-set-or-not/Solution-2.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-21` |
 | 0008 | [875. Convert Array to Doubly Linked List](./DSA/Arrays/convert-array-to-dll) | [JAVA](./DSA/Arrays/convert-array-to-dll/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
 | 0009 | [854. Count Nodes in Linked List
 POTD](./DSA/Linked-List/count-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/count-nodes-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-17` |
