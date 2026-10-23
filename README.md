@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **50** | 0 | 50 | 0 | `2026-10-23` |
+| **51** | 0 | 51 | 0 | `2026-10-23` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (50)
+### DSA (51)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -59,18 +59,19 @@ POTD](./DSA/Linked-List/count-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/c
 POTD](./DSA/General/meeting-rooms) | [JAVA](./DSA/General/meeting-rooms/solution.java) | ⚪ Unspecified | `General` | `2026-10-02` |
 | 0037 | [377. Minimum Bit Flips to Convert Number](./DSA/Bit-Manipulation/minimum-bit-flips-to-convert-number) | [Solution-2](./DSA/Bit-Manipulation/minimum-bit-flips-to-convert-number/Solution-2.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-23` |
 | 0038 | [166. Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0039 | [81. Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [JAVA](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
-| 0040 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [JAVA](./DSA/General/removing-given-node-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0041 | [601. Reverse a Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [Solution-2](./DSA/Linked-List/reverse-a-doubly-linked-list/Solution-2.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0042 | [3. Reverse a LL](./DSA/Linked-List/reverse-a-ll) | [JAVA](./DSA/Linked-List/reverse-a-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
-| 0043 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
-| 0044 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
-| 0045 | [110. Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-07` |
-| 0046 | [Set the Rightmost Unset Bit](./DSA/Bit-Manipulation/set-the-rightmost-unset-bit) | [Solution-2](./DSA/Bit-Manipulation/set-the-rightmost-unset-bit/Solution-2.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-23` |
-| 0047 | [63. Single Number - I](./DSA/Bit-Manipulation/single-number---i) | [Solution-2](./DSA/Bit-Manipulation/single-number---i/Solution-2.java) [JAVA](./DSA/Bit-Manipulation/single-number---i/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-20` |
-| 0048 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
-| 0049 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [JAVA](./DSA/General/swap-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-13` |
-| 0050 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0039 | [266. Power Set Bit Manipulation](./DSA/Bit-Manipulation/power-set-bit-manipulation) | [JAVA](./DSA/Bit-Manipulation/power-set-bit-manipulation/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-23` |
+| 0040 | [81. Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [JAVA](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
+| 0041 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [JAVA](./DSA/General/removing-given-node-in-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0042 | [601. Reverse a Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [Solution-2](./DSA/Linked-List/reverse-a-doubly-linked-list/Solution-2.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0043 | [3. Reverse a LL](./DSA/Linked-List/reverse-a-ll) | [JAVA](./DSA/Linked-List/reverse-a-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
+| 0044 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
+| 0045 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0046 | [110. Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-07` |
+| 0047 | [Set the Rightmost Unset Bit](./DSA/Bit-Manipulation/set-the-rightmost-unset-bit) | [Solution-2](./DSA/Bit-Manipulation/set-the-rightmost-unset-bit/Solution-2.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-23` |
+| 0048 | [63. Single Number - I](./DSA/Bit-Manipulation/single-number---i) | [Solution-2](./DSA/Bit-Manipulation/single-number---i/Solution-2.java) [JAVA](./DSA/Bit-Manipulation/single-number---i/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-20` |
+| 0049 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
+| 0050 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [JAVA](./DSA/General/swap-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-13` |
+| 0051 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
 
 ---
 
