@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **49** | 0 | 49 | 0 | `2026-10-23` |
+| **50** | 0 | 50 | 0 | `2026-10-23` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (49)
+### DSA (50)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -66,10 +66,11 @@ POTD](./DSA/General/meeting-rooms) | [JAVA](./DSA/General/meeting-rooms/solution
 | 0043 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
 | 0044 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
 | 0045 | [110. Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-07` |
-| 0046 | [63. Single Number - I](./DSA/Bit-Manipulation/single-number---i) | [Solution-2](./DSA/Bit-Manipulation/single-number---i/Solution-2.java) [JAVA](./DSA/Bit-Manipulation/single-number---i/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-20` |
-| 0047 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
-| 0048 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [JAVA](./DSA/General/swap-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-13` |
-| 0049 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
+| 0046 | [Set the Rightmost Unset Bit](./DSA/Bit-Manipulation/set-the-rightmost-unset-bit) | [Solution-2](./DSA/Bit-Manipulation/set-the-rightmost-unset-bit/Solution-2.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-23` |
+| 0047 | [63. Single Number - I](./DSA/Bit-Manipulation/single-number---i) | [Solution-2](./DSA/Bit-Manipulation/single-number---i/Solution-2.java) [JAVA](./DSA/Bit-Manipulation/single-number---i/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-20` |
+| 0048 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [Solution-3](./DSA/Strings/string-to-integer-atoi/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-01` |
+| 0049 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [JAVA](./DSA/General/swap-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-13` |
+| 0050 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
 
 ---
 
