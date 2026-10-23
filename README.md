@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **48** | 0 | 48 | 0 | `2026-10-22` |
+| **48** | 0 | 48 | 0 | `2026-10-23` |
 
 ---
 
@@ -28,7 +28,7 @@ POTD](./DSA/Strings/calculate-frequency-of-characters-in-a-string) | [Solution-2
 | 0008 | [875. Convert Array to Doubly Linked List](./DSA/Arrays/convert-array-to-dll) | [JAVA](./DSA/Arrays/convert-array-to-dll/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
 | 0009 | [854. Count Nodes in Linked List
 POTD](./DSA/Linked-List/count-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/count-nodes-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-17` |
-| 0010 | [14. Count the Number of Set Bits](./DSA/Bit-Manipulation/count-the-number-of-set-bits) | [JAVA](./DSA/Bit-Manipulation/count-the-number-of-set-bits/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-15` |
+| 0010 | [14. Count the Number of Set Bits](./DSA/Bit-Manipulation/count-the-number-of-set-bits) | [JAVA](./DSA/Bit-Manipulation/count-the-number-of-set-bits/solution.java) [Solution-2](./DSA/Bit-Manipulation/count-the-number-of-set-bits/Solution-2.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-23` |
 | 0011 | [879. Delete head of Doubly Linked List](./DSA/General/delete-head-of-dll) | [JAVA](./DSA/General/delete-head-of-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
 | 0012 | [888. Delete Kth Element of Doubly Linked List](./DSA/General/delete-kth-element-of-dll) | [JAVA](./DSA/General/delete-kth-element-of-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
 | 0013 | [892. Delete Tail of Doubly Linked List](./DSA/General/delete-tail-of-dll) | [JAVA](./DSA/General/delete-tail-of-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
