@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **57** | 0 | 57 | 0 | `2026-10-28` |
+| **57** | 0 | 57 | 0 | `2026-10-29` |
 
 ---
 
@@ -55,7 +55,7 @@ POTD](./DSA/Linked-List/count-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/c
 | 0033 | [954. Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-kth-position-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
 | 0034 | [958. Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-tail-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
 | 0035 | [967. Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-ll) | [JAVA](./DSA/Linked-List/insertion-before-the-value-x-in-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
-| 0036 | [24. Jump Game - I](./DSA/General/jump-game---i) | [Solution-2](./DSA/General/jump-game---i/Solution-2.java) | ⚪ Unspecified | `General` | `2026-10-28` |
+| 0036 | [24. Jump Game - I](./DSA/General/jump-game---i) | [Solution-2](./DSA/General/jump-game---i/Solution-2.java) | ⚪ Unspecified | `General` | `2026-10-29` |
 | 0037 | [328. Lemonade Change](./DSA/General/lemonade-change) | [JAVA](./DSA/General/lemonade-change/solution.java) | ⚪ Unspecified | `General` | `2026-10-26` |
 | 0038 | [769. Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [JAVA](./DSA/Linked-List/length-of-loop-in-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-12` |
 | 0039 | [392. Maximum Nesting Depth of the Parentheses](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses/solution.java) | ⚪ Unspecified | `Recursion` | `2026-09-30` |
